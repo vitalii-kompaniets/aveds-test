@@ -81,17 +81,17 @@ h5 {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 28px 10px;
+  padding: 20px 10px;
   border-bottom: 1px solid black;
 }
 @media (min-width: 768px) {
   .header {
-    padding: 28px 30px;
+    padding: 18px 30px;
   }
 }
 @media (min-width: 1200px) {
   .header {
-    padding: 28px 70px;
+    padding: 18px 70px;
   }
 }
 .logo {
@@ -116,7 +116,7 @@ h5 {
 }
 @media (min-width: 768px) {
   .header-btn__contacts {
-    margin-right: 60px;
+    margin-right: 58px;
   }
 }
 .header-btn__login {
@@ -296,7 +296,7 @@ h5 {
   color: #737373;
 }
 .button {
-  padding: 15px 40px;
+  padding: 15px 38px;
   margin-right: 10px;
   border: 1px solid #ff685b;
   border-radius: 5px;
